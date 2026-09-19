@@ -28,10 +28,3 @@ Technologies
 - CSS3
 - JavaScript
 
-Note
-----
-
-The page loads Google Fonts and Tailwind CSS from external CDNs, so an
-internet connection may be needed for those external resources. The main
-page, styling, and birthday interaction are kept in separate files for
-easier editing and maintenance.
