@@ -1,0 +1,37 @@
+Happy Birthday Nate
+===================
+
+This is a simple interactive birthday greeting page made with HTML, CSS,
+and JavaScript. It includes a birthday cake, a visible candle flame,
+an interactive "Blow the candle" button, a candle extinguishing animation,
+and a confetti celebration effect.
+
+Project files
+-------------
+
+- index.html - The main page structure and birthday message.
+- style.css - The page layout, cake illustration, candle, flame, animations,
+  colors, and responsive styles.
+- script.js - The candle-blowing interaction and confetti effect.
+
+How to run
+-----------
+
+1. Open the BIRTHDAY folder.
+2. Double-click index.html, or open it in a web browser.
+3. Click "Blow the candle" to start the celebration.
+
+Technologies
+------------
+
+- HTML5
+- CSS3
+- JavaScript
+
+Note
+----
+
+The page loads Google Fonts and Tailwind CSS from external CDNs, so an
+internet connection may be needed for those external resources. The main
+page, styling, and birthday interaction are kept in separate files for
+easier editing and maintenance.
